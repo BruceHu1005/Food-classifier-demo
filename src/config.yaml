@@ -1,0 +1,25 @@
+title: Food recognition
+description: Classify food images using deep learning
+about:
+
+  Team members
+
+  - Fangyi Hu 201703340315
+
+  - Qi Chen 201703340111
+
+  - Feng Zhang 201703340101
+
+  - Jiaming Chu 201703340115
+
+
+
+code: http://www.vision.ee.ethz.ch/datasets_extra/food-101/
+
+sampleImages:
+  - name: apple_pie
+    url: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577526610513&di=046ba751e68efd5637c5fe5178915c71&imgtype=0&src=http%3A%2F%2Fimgq.duitang.com%2Fuploads%2Fitem%2F201212%2F05%2F20121205133710_Xa4NC.jpeg
+  - name: baby_back_ribs
+    url: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578121390&di=1c70ca4f8582ab25a75bf087dbc4453c&imgtype=jpg&er=1&src=http%3A%2F%2Fimages.rapgenius.com%2F00decb9f4a7bb8694d69942848dbbce8.450x285x1.gif
+  - name: baklava
+    url: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2071001447,3580729672&fm=26&gp=0.jpg
